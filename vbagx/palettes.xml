@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<palette app="Visual Boy Advance GX" version="2.2.7">
+
+<game name="default" use="1">
+	<bkgr c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<wind c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" />
+	<obj1 c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" />
+</game>
+
+<game name="ALLEY WAY" use="1">
+	<bkgr c0="0x00FF00" c1="0xAD0000" c2="0x000063" c3="0x636300" />
+	<wind c0="0xFFFFFF" c1="0xAD0000" c2="0x630000" c3="0x000000" />
+	<obj0 c0="0xFF0000" c1="0xAD0000" c2="0x630000" />
+	<obj1 c0="0x0000FF" c1="0x0000AD" c2="0x000063" />
+</game>
+
+<game name="BASEBALL" use="1">
+	<bkgr c0="0x009000" c1="0x006000" c2="0x003000" c3="0x000000" />
+	<wind c0="0xFFFFFF" c1="0xAD0000" c2="0x630000" c3="0x000000" />
+	<obj0 c0="0xFFD060" c1="0xAD0000" c2="0x630000" />
+	<obj1 c0="0x0050AD" c1="0xFFD060" c2="0x0040A0" />
+</game>
+
+<game name="BUGSCRAZYCASTLE2" use="1">
+	<bkgr c0="0xFFFFFF" c1="0xA8ADA8" c2="0x604B20" c3="0x302010" />
+	<wind c0="0xFFFF00" c1="0xADAD00" c2="0x636300" c3="0x000000" />
+	<obj0 c0="0xFFFFFF" c1="0xADA8A8" c2="0x636060" />
+	<obj1 c0="0x0000FF" c1="0x0000AD" c2="0x000063" />
+</game>
+
+<game name="CAESARS PALACE" use="1">
+	<bkgr c0="0xFFFFFF" c1="0xC0AD00" c2="0x680000" c3="0x000000" />
+	<wind c0="0x608FFF" c1="0x0000B5" c2="0x005300" c3="0x003000" />
+	<obj0 c0="0x0060FF" c1="0x0000A8" c2="0x000068" />
+	<obj1 c0="0xFF00FF" c1="0xA800AD" c2="0x600063" />
+</game>
+
+<game name="DARK WING DUCK" use="1">
+	<bkgr c0="0xFF7F50" c1="0xB05530" c2="0x000060" c3="0x000000" />
+	<wind c0="0xFF0000" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0xFFFF00" c1="0xAD00FF" c2="0x530070" />
+	<obj1 c0="0x00FF00" c1="0x00B000" c2="0x006000" />
+</game>
+
+<game name="DUCK TALES" use="1">
+	<bkgr c0="0x80FF00" c1="0x68AD00" c2="0x633100" c3="0x201000" />
+	<wind c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0xFFFFFF" c1="0xAD5800" c2="0xAD5800" />
+	<obj1 c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" />
+</game>
+
+<game name="EARTHWORM JIM" use="1">
+	<bkgr c0="0x809F20" c1="0x985D38" c2="0x006300" c3="0x200028" />
+	<wind c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0xDFDFDF" c1="0xCD7890" c2="0x0068B0" />
+	<obj1 c0="0xFF0000" c1="0xA80000" c2="0x600000" />
+</game>
+
+<game name="FELIX THE CAT" use="1">
+	<bkgr c0="0x00BFFF" c1="0x50AD50" c2="0x684318" c3="0x000000" />
+	<wind c0="0xCF77CF" c1="0xADADAD" c2="0x636363" c3="0xFFFFFF" />
+	<obj0 c0="0xFFFFFF" c1="0xADA800" c2="0x000000" />
+	<obj1 c0="0x0000FF" c1="0x0000AD" c2="0x000063" />
+</game>
+
+<game name="THE FLINTSTONES" use="1">
+	<bkgr c0="0xD0FFEF" c1="0xD8C87C" c2="0x406300" c3="0x000000" />
+	<wind c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0xFFEF73" c1="0xFFBB8C" c2="0x0080FF" />
+	<obj1 c0="0x0000FF" c1="0x0000AD" c2="0x000063" />
+</game>
+
+<game name="GAUNTLET II" use="1">
+	<bkgr c0="0xFFFF00" c1="0xA85D40" c2="0x684328" c3="0x105848" />
+	<wind c0="0x000000" c1="0xADA8A8" c2="0x636060" c3="0xFF0000" />
+	<obj0 c0="0xC87850" c1="0xA82820" c2="0x630000" />
+	<obj1 c0="0x0000FF" c1="0x0000AD" c2="0x000063" />
+</game>
+
+<game name="INDIANA JONES" use="1">
+	<bkgr c0="0xE8D760" c1="0xA88548" c2="0x803308" c3="0x201000" />
+	<wind c0="0x00C700" c1="0x008D00" c2="0x004300" c3="0x000000" />
+	<obj0 c0="0x8F6050" c1="0xA56048" c2="0x630000" />
+	<obj1 c0="0x90604F" c1="0x883810" c2="0x680000" />
+</game>
+
+<game name="KID ICARUS" use="1">
+	<bkgr c0="0xFFFFFF" c1="0xADADAD" c2="0x314278" c3="0x003163" />
+	<wind c0="0xFFFFFF" c1="0xAD0000" c2="0x630000" c3="0x000000" />
+	<obj0 c0="0xFFFF00" c1="0xB80000" c2="0x436300" />
+	<obj1 c0="0xFFFFFF" c1="0xD4B4A4" c2="0x633100" />
+</game>
+
+<game name="MAGNETIC SOCCER" use="1">
+	<bkgr c0="0x009000" c1="0x006000" c2="0x003000" c3="0x000000" />
+	<wind c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0xFF0000" c1="0xAD0000" c2="0x630000" />
+	<obj1 c0="0x0000FF" c1="0x0000AD" c2="0x000063" />
+</game>
+
+<game name="BEACH,VOLLEYBALL" use="1">
+	<bkgr c0="0xD4B4A4" c1="0xADAD30" c2="0x000063" c3="0x000020" />
+	<wind c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0xB49E90" c1="0xB00000" c2="0x31271E" />
+	<obj1 c0="0x0000FF" c1="0x0000AD" c2="0x000063" />
+</game>
+
+<game name="MARBLE MADNESS" use="1">
+	<bkgr c0="0x00FFFF" c1="0x00ADAD" c2="0x006363" c3="0x303030" />
+	<wind c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0xFF0000" c1="0xAD0000" c2="0x630000" />
+	<obj1 c0="0xFFFF00" c1="0xAD8000" c2="0x634000" />
+</game>
+
+<game name="METROID2" use="1">
+	<bkgr c0="0xFF7B30" c1="0xAD5230" c2="0x300063" c3="0x000018" />
+	<wind c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0x7B6300" c1="0xAD0000" c2="0x000063" />
+	<obj1 c0="0xFF00FF" c1="0x8400AD" c2="0x300063" />
+</game>
+
+<game name="MORTAL KOMBAT" use="1">
+	<bkgr c0="0xADFF00" c1="0x00AD00" c2="0x006300" c3="0x400000" />
+	<wind c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0xFFFF00" c1="0xADAD00" c2="0x636300" />
+	<obj1 c0="0xFFFF00" c1="0xADAD00" c2="0x636300" />
+</game>
+
+<game name="MORTAL KOMBAT II" use="1">
+	<bkgr c0="0xC0B0FF" c1="0x6890A0" c2="0x303063" c3="0x000000" />
+	<wind c0="0xADFF00" c1="0x00AD00" c2="0x006300" c3="0x400000" />
+	<obj0 c0="0xC9A104" c1="0xBF5000" c2="0xB20A00" />
+	<obj1 c0="0x8080FF" c1="0x5050AD" c2="0x303063" />
+</game>
+
+<game name="MORTAL KOMBAT 3" use="1">
+	<bkgr c0="0xFFFFFF" c1="0x6060A0" c2="0x535373" c3="0x000000" />
+	<wind c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0xF5CCAC" c1="0x9A7057" c2="0x630000" />
+	<obj1 c0="0xA87860" c1="0x882020" c2="0x000000" />
+</game>
+
+<game name="MR.DO!" use="1">
+	<bkgr c0="0x38F038" c1="0x00C800" c2="0x705000" c3="0x600000" />
+	<wind c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" />
+	<obj1 c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" />
+</game>
+
+<game name="ROCKY BULLWINKLE" use="1">
+	<bkgr c0="0x60C7D7" c1="0x909090" c2="0x683320" c3="0x002000" />
+	<wind c0="0xFFFF4F" c1="0xAD7D15" c2="0x63530B" c3="0x000000" />
+	<obj0 c0="0xFFFF00" c1="0xAD6018" c2="0x000000" />
+	<obj1 c0="0x0000FF" c1="0x0000AD" c2="0x000063" />
+</game>
+
+<game name="SIMPSONS3" use="1">
+	<bkgr c0="0x80FF40" c1="0x00AD50" c2="0x006300" c3="0x402000" />
+	<wind c0="0xE0D000" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0xF0E000" c1="0xAD4000" c2="0x0000FF" />
+	<obj1 c0="0xFF0000" c1="0xAD0000" c2="0x630000" />
+</game>
+
+<game name="SPIDER-MAN 2" use="1">
+	<bkgr c0="0xEFE7DF" c1="0xA88548" c2="0x604318" c3="0x000000" />
+	<wind c0="0xFFFFFF" c1="0xAD0000" c2="0x630000" c3="0x000000" />
+	<obj0 c0="0xFFFF00" c1="0xAD0000" c2="0x006000" />
+	<obj1 c0="0xFF9F9F" c1="0xFF0000" c2="0x0050FF" />
+</game>
+
+<game name="SPIDER-MAN 3 DMG" use="1">
+	<bkgr c0="0x00FF00" c1="0x00AD00" c2="0x006300" c3="0x002000" />
+	<wind c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0xFFB850" c1="0xAD6838" c2="0x630000" />
+	<obj1 c0="0xFFAF9F" c1="0xF00000" c2="0x0050FF" />
+</game>
+
+<game name="STAR WARS" use="1">
+	<bkgr c0="0xFFCF70" c1="0xAF9538" c2="0x705318" c3="0x000000" />
+	<wind c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0xFFFFFF" c1="0xAD9800" c2="0x006000" />
+	<obj1 c0="0xFF0000" c1="0x680095" c2="0x000063" />
+</game>
+
+<game name="SUPER MARIO LAND" use="1">
+	<bkgr c0="0x90A0FF" c1="0x80AD00" c2="0x636300" c3="0x301800" />
+	<wind c0="0xFFFF40" c1="0xADAD00" c2="0x636300" c3="0x000000" />
+	<obj0 c0="0xFFE080" c1="0x0000AD" c2="0xFF0000" />
+	<obj1 c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" />
+</game>
+
+<game name="TMNT FOOT CLAN" use="1">
+	<bkgr c0="0xFFFF80" c1="0xADB800" c2="0x636300" c3="0x302000" />
+	<wind c0="0x8080FF" c1="0x0000AD" c2="0x000063" c3="0x000030" />
+	<obj0 c0="0x60A060" c1="0x633030" c2="0x533000" />
+	<obj1 c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" />
+</game>
+
+<game name="TENNIS" use="1">
+	<bkgr c0="0x008000" c1="0xB49E90" c2="0x630000" c3="0x000000" />
+	<wind c0="0xFFFFFF" c1="0xB49E90" c2="0x630000" c3="0x201000" />
+	<obj0 c0="0xB4A880" c1="0xADAD00" c2="0x632000" />
+	<obj1 c0="0x0000AD" c1="0xA48E80" c2="0x636300" />
+</game>
+
+<game name="TETRIS" use="1">
+	<bkgr c0="0xAD0000" c1="0x00AD00" c2="0x0000AD" c3="0x000000" />
+	<wind c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0x00AD00" c1="0x0000AD" c2="0xAD0000" />
+	<obj1 c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" />
+</game>
+
+<game name="" use="1">
+	<bkgr c0="0x00FF00" c1="0x00AD00" c2="0x006300" c3="0x002000" />
+	<wind c0="0xFFFFFF" c1="0xADADAD" c2="0x636363" c3="0x000000" />
+	<obj0 c0="0xFF8000" c1="0xAD0040" c2="0x630000" />
+	<obj1 c0="0x00A0FF" c1="0x2000AD" c2="0x000063" />
+</game>
+</palette>

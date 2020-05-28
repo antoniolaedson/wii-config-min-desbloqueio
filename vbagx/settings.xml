@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<file app="Visual Boy Advance GX" version="2.2.7">
+
+<section name="File" description="File Settings">
+	<setting name="AutoLoad" value="1" description="Auto Load" />
+	<setting name="AutoSave" value="1" description="Auto Save" />
+	<setting name="LoadMethod" value="2" description="Load Method" />
+	<setting name="SaveMethod" value="2" description="Save Method" />
+	<setting name="LoadFolder" value="vbagx/roms/" description="Load Folder" />
+	<setting name="SaveFolder" value="vbagx/saves" description="Save Folder" />
+</section>
+
+<section name="Network" description="Network Settings">
+	<setting name="smbip" value="" description="Share Computer IP" />
+	<setting name="smbshare" value="" description="Share Name" />
+	<setting name="smbuser" value="" description="Share Username" />
+	<setting name="smbpwd" value="" description="Share Password" />
+</section>
+
+<section name="Video" description="Video Settings">
+	<setting name="videomode" value="0" description="Video Mode" />
+	<setting name="gbaZoomHor" value="1.00" description="GBA Horizontal Zoom Level" />
+	<setting name="gbaZoomVert" value="1.00" description="GBA Vertical Zoom Level" />
+	<setting name="gbZoomHor" value="1.00" description="GB Horizontal Zoom Level" />
+	<setting name="gbZoomVert" value="1.00" description="GB Vertical Zoom Level" />
+	<setting name="render" value="1" description="Video Filtering" />
+	<setting name="scaling" value="0" description="Aspect Ratio Correction" />
+	<setting name="xshift" value="0" description="Horizontal Video Shift" />
+	<setting name="yshift" value="0" description="Vertical Video Shift" />
+	<setting name="colorize" value="0" description="Colorize Mono Gameboy" />
+</section>
+
+<section name="Menu" description="Menu Settings">
+	<setting name="WiimoteOrientation" value="0" description="Wiimote Orientation" />
+	<setting name="ExitAction" value="0" description="Exit Action" />
+	<setting name="MusicVolume" value="40" description="Music Volume" />
+	<setting name="SFXVolume" value="40" description="Sound Effects Volume" />
+	<setting name="Rumble" value="1" description="Rumble" />
+	<setting name="language" value="4" description="Language" />
+</section>
+
+<section name="Controller" description="Controller Settings">
+	<setting name="WiiControls" value="0" description="Match Wii Game" />
+	<controller name="gcpadmap" description="GameCube Pad">
+		<button number="0" assignment="512" />
+		<button number="1" assignment="256" />
+		<button number="2" assignment="16" />
+		<button number="3" assignment="4096" />
+		<button number="4" assignment="8" />
+		<button number="5" assignment="4" />
+		<button number="6" assignment="1" />
+		<button number="7" assignment="2" />
+		<button number="8" assignment="64" />
+		<button number="9" assignment="32" />
+	</controller>
+	<controller name="wmpadmap" description="Wiimote">
+		<button number="0" assignment="2" />
+		<button number="1" assignment="1" />
+		<button number="2" assignment="16" />
+		<button number="3" assignment="4096" />
+		<button number="4" assignment="512" />
+		<button number="5" assignment="256" />
+		<button number="6" assignment="2048" />
+		<button number="7" assignment="1024" />
+		<button number="8" assignment="4" />
+		<button number="9" assignment="8" />
+	</controller>
+	<controller name="ccpadmap" description="Classic Controller">
+		<button number="0" assignment="2097152" />
+		<button number="1" assignment="4194304" />
+		<button number="2" assignment="268435456" />
+		<button number="3" assignment="67108864" />
+		<button number="4" assignment="65536" />
+		<button number="5" assignment="1073741824" />
+		<button number="6" assignment="131072" />
+		<button number="7" assignment="-2147483648" />
+		<button number="8" assignment="536870912" />
+		<button number="9" assignment="33554432" />
+	</controller>
+	<controller name="ncpadmap" description="Nunchuk">
+		<button number="0" assignment="131072" />
+		<button number="1" assignment="65536" />
+		<button number="2" assignment="16" />
+		<button number="3" assignment="4096" />
+		<button number="4" assignment="2048" />
+		<button number="5" assignment="1024" />
+		<button number="6" assignment="256" />
+		<button number="7" assignment="512" />
+		<button number="8" assignment="1" />
+		<button number="9" assignment="2" />
+	</controller>
+</section>
+</file>
